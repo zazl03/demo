@@ -1,0 +1,22 @@
+package com.example.demo.model.entity;
+
+import com.example.demo.model.enums.TipoUsuario;
+
+public class Usuario {
+
+    private Long id;
+    private String nome;
+    private String cpf;
+    private String email;
+    private String senha;
+    private String sexo;
+    private String logradouro;
+    private String cep;
+    private String bairro;
+    private String cidade;
+    private String uf;
+    private Boolean codStatus;
+    private TipoUsuario tipoUsuario;
+            ;
+
+}
