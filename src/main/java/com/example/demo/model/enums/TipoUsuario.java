@@ -4,8 +4,5 @@ import java.sql.ClientInfoStatus;
 
 public class TipoUsuario {
 
-    ADMIN,
-    ClientInfoStatus,
-    FUNCIONARIO,
 
 }
